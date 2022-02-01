@@ -1,0 +1,3 @@
+SOURCE = \
+$(cellSources)/coneToCell/coneToCell.C \
+$(cellSources)/sineWaveToCell/sineWaveToCell.C 

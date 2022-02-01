@@ -1,0 +1,6 @@
+SOURCE = \
+errorEstimator/errorEstimator.C \
+errorEstimator/newErrorEstimator.C \
+densityGradient/densityGradient.C \
+delta/delta.C \
+Lohner/Lohner.C 

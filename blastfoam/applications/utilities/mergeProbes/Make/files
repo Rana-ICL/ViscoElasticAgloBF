@@ -1,0 +1,3 @@
+mergeProbes.C
+
+EXE = $(BLAST_APPBIN)/mergeProbes

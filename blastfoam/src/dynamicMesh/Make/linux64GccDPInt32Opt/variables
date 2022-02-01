@@ -1,0 +1,6 @@
+enrichedPatch = slidingInterface/enrichedPatch
+polyMeshModifier = polyTopoChange/polyMeshModifier
+hexRef = polyTopoChange/polyTopoChange/hexRef
+meshModifiers = meshCut/meshModifiers
+solidBodyMotionFunctions = motionSolvers/displacement/solidBody/solidBodyMotionFunctions
+LIB = $(BLAST_LIBBIN)/libblastDynamicMesh

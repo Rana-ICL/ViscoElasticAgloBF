@@ -1,0 +1,8 @@
+
+
+cellSources =  sets/cellSources
+$(cellSources)/coneToCell/coneToCell.C
+$(cellSources)/sineWaveToCell/sineWaveToCell.C
+
+
+LIB = $(FOAM_USER_LIBBIN)/libmymeshTools

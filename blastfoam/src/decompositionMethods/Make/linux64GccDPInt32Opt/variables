@@ -1,0 +1,2 @@
+decompositionConstraints = decompositionConstraints
+LIB = $(BLAST_LIBBIN)/libblastDecompositionMethods

@@ -1,0 +1,3 @@
+blastToVTK.C
+
+EXE = $(BLAST_APPBIN)/blastToVTK

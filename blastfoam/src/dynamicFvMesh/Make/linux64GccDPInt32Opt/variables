@@ -1,0 +1,2 @@
+derivedPoint = fvMotionSolvers/pointPatchFields/derived
+LIB = $(BLAST_LIBBIN)/libblastDynamicFvMesh

@@ -1,0 +1,2 @@
+cellSources = sets/cellSources
+LIB = $(FOAM_USER_LIBBIN)/libmymeshTools

@@ -1,0 +1,18 @@
+#!/bin/sh
+cd ${0%/*} || exit 1    # run from this directory
+set -x
+
+wclean $targetType thermodynamicModels
+wclean $targetType fluxSchemes
+wclean $targetType compressibleSystem
+wclean $targetType timeIntegrators
+wclean $targetType radiationModels
+wclean $targetType dynamicMesh
+wclean $targetType decompositionMethods
+wclean $targetType dynamicFvMesh
+wclean $targetType errorEstimators
+wclean $targetType functionObjects
+wclean $targetType sampling
+wclean $targetType atmosphereModels
+
+# ----------------------------------------------------------------- end-of-file

@@ -1,0 +1,3 @@
+blastFoam.C
+
+EXE = $(BLAST_APPBIN)/blastFoam
